@@ -1,0 +1,85 @@
+
+{
+        "Gifts":[
+        {
+                "GiftName": "Anker PowerCore+ Mini",
+                "GiftPrice": "19.99",
+                "GiftDescription": "We could all use a little juice now and then, so a portable charger makes a great gift for anyone. Your giftee will love this one from Anker, which is small enough to fit in small purse or pocket, and offers a full charge to their phone before needing to be recharged itself.",
+                "GiftImage": "Anker PowerCore+ Mini.jpg",
+                "GiftSite": "https://www.amazon.com/Anker-PowerCore-Lipstick-Sized-Compatible-Smartphones/dp/B005X1Y7I2/ref=as_li_ss_tl?ots=1&slotNum=8&imprToken=30ba823e-bd4d-6898-c60&ie=UTF8&linkCode=ll1&tag=usatgiftguide-20&linkId=6bca33c4c503df652d8e46548880aa90&language=en_US"
+         },
+       
+        {
+                "GiftName": "Codenames",
+                "GiftPrice": "14.88",
+                "GiftDescription": "If you haven’t heard of it yet, Codenames is about to be your favorite go-to board game on game night. Codenames is a team-based word association game. It’s a simple, fun, and entertaining game that only gets better the more you know your teammates." ,
+                "GiftImage": "Codenames.jfif",
+                "GiftSite": "https://www.amazon.com/Czech-Games-00031CGE-Codenames/dp/B014Q1XX9S/ref=as_li_ss_tl?ots=1&slotNum=5&imprToken=9cbc1990-88cd-294c-061&ie=UTF8&linkCode=ll1&tag=usatgiftguide-20&linkId=60be933ef9a4ffcd20c9e748667967a4&language=en_US"
+         },
+
+         {
+                "GiftName": "InnoGear Upgraded Diffuser",
+                "GiftPrice": "11.99",
+                "GiftDescription": "Sweet and calming scents can help your giftee relax after a stressful holiday season—and they might appreciate an essential oil diffuser to do so. It's not too expensive, which means you can throw in some essential oils for them as well.",
+                "GiftImage": "InnoGear Upgraded Diffuser.jpg",
+                "GiftSite": "https://www.amazon.com/InnoGear-Aromatherapy-Essential-Ultrasonic-Humidifier/dp/B00V9JP8EE/ref=as_li_ss_tl?ots=1&slotNum=4&imprToken=9cbc1990-88cd-294c-061&ie=UTF8&linkCode=ll1&tag=usatgiftguide-20&linkId=48ec7ad6b57ee8764365c9279c28b3bb&language=en_US"
+         },        
+        
+         {
+                "GiftName": "Takeya Cold Brew Coffee Maker",
+                "GiftPrice": "15.99",
+                "GiftDescription": "If they're addicted to their daily cup of joe—they'll love this cold brew coffee making gadget. We chose it as the best cold brew coffee maker of the year because it was not only the easiest to use, but it also made the best-tasting coffee.",
+                "GiftImage": "Takeya Cold Brew Coffee Maker.jpg",
+                "GiftSite": "https://www.amazon.com/Takeya-10310-Patented-Airtight-Silicone/dp/B00FFLY64U/ref=as_li_ss_tl?ots=1&slotNum=6&imprToken=32bc1997-0b50-3cde-018&ie=UTF8&linkCode=ll1&tag=usatgiftguide-20&linkId=a0ed3843c53c5bedd2170805a9a46fb0&language=en_US"
+         },
+
+         {
+                "GiftName": "Tile Mate",
+                "GiftPrice": "17.99",
+                "GiftDescription": "If your recipient is always late because they can't find their keys, get them the Tile Mate so they can finally put an end to their forgetfulness. The Tile Mate is so popular because it easily attaches to their most commonly forgotten items. The next time they lose their keys, they can just use an app to ping the Tile and quickly find them to actually meet you on time.",
+                "GiftImage": "Tile Mate.jpg",
+                "GiftSite": "https://www.amazon.com/Tile-RE-19001-Mate-1-Pack/dp/B07W9BBCTB/ref=as_li_ss_tl?ots=1&slotNum=11&imprToken=32bc1997-0b50-3cde-018&ie=UTF8&linkCode=ll1&tag=usatgiftguide20&linkId=1460ae40040f5633647a2d311b33fbb1&language=en_US"
+         },
+        
+         {
+                "GiftName": "QIAYA Selfie Light Ring",
+                "GiftPrice": "19.99",
+                "GiftDescription": "Whether they've been mastering TikTok dances or are always trying to find the best lighting for their photos, a ring light will ensure they always have perfect lighting for selfies. The light is rechargeable, simply clips to the top of a phone, and is small enough to carry in a backpack, purse, or pocket.",
+                "GiftImage": "QIAYA Selfie Light Ring.jpg",
+                "GiftSite": "https://www.amazon.com/QIAYA-Selfie-Photography-Lighting-Rechargeable/dp/B01HXTHPXU/ref=as_li_ss_tl?ots=1&slotNum=12&imprToken=32bc1997-0b50-3cde-018&ie=UTF8&linkCode=ll1&tag=usatgiftguide-20&linkId=bdc299166bec4bdf4229e859ad6f92ba&language=en_US"
+         },
+
+         {
+                "GiftName": "Tiled Monogrammed Mug",
+                "GiftPrice": "12.00",
+                "GiftDescription": "With a French bistro-inspired tile design, this is one mug that's almost too pretty to relegate to the back of a kitchen cabinet. Your coffee or tea-drinking friend will love sporting one with their initial, so much that they may permanently display it on their desk or in their coffee station at home.",
+                "GiftImage": "Tiled Margot Monogrammed Mug.jpg",
+                "GiftSite":  "https://www.anthropologie.com/shop/tiled-margot-monogram-mug?cm_mmc=LS-_-affiliates-_-tv2R4u9rImY-_-1&utm_medium=affiliates&utm_source=LS&utm_campaign=tv2R4u9rImY&utm_term=881243&utm_content=1&ranMID=39789&ranEAID=tv2R4u9rImY&ranSiteID=tv2R4u9rImY-_CATcS5lxyIUGX_3EN811w&siteID=tv2R4u9rImY-_CATcS5lxyIUGX_3EN811w"
+         },
+
+         {
+                "GiftName": "A personalized calendar",
+                "GiftPrice": "19.79",
+                "GiftDescription": "There's nothing more personal than gifting a family member a calendar filled with pictures of you and the fam. You can upload your own photos for a calendar and arrange them on colorful backgrounds, then customize your creation for each month.",
+                "GiftImage": "A personalized calendar.jfif",
+                "GiftSite": "https://www.shutterfly.com/calendars?esch=1&CID=AFF-PJN-SFLY-202068-3506991294&clickId=3506991294&creative=8-10924&publisher=202068"
+         },
+
+         {
+                "GiftName": "TheraFlow Foot Massager Roller",
+                "GiftPrice": "9.49",
+                "GiftDescription": "If you're looking for a more affordable way to gift a little rest and relaxation, the Theraflow Foot Massager will get the job done and then some. The wooden roller has nubs and grooves designed to reach even the achiest spots like the arch of your foot, heels, and more. They can also use the massager on their hands, back, and other parts of the body.",
+                "GiftImage": "TheraFlow Foot Massager Roller.jfif",
+                "GiftSite": "https://www.amazon.com/New-TheraFlow-Foot-Massager-Roller/dp/B01F1L6YDO/ref=as_li_ss_tl?ots=1&slotNum=18&imprToken=32bc1997-0b50-3cde-018&ie=UTF8&linkCode=ll1&tag=usatgiftguide-20&linkId=b942aef70ca24d17a103a3bbe5edc84d&language=en_US"
+         },
+
+         {
+                "GiftName": "Goodr OG Sunglasses",
+                "GiftPrice": "25.00",
+                "GiftDescription": "If you're giftee is an outdoor adventure junkie, then they need sunglasses that can handle activity. They have to dim the sun, reduce glare and not slide down the nose once things get sweaty. Goodr OG Sunglasses do it all, for a great price, in funky colors with even funkier names.",
+                "GiftImage": "Goodr OG Sunglasses.jpg",
+                "GiftSite": "https://www.rei.com/product/166951/goodr-og-sunglasses?cm_mmc=aff_AL-_-40661-_-55097-_-NA&avad=55097_e1754fc39&cm_mmc=aff_AL-_-40661-_-55097-_-NA&avad=55097_c2092e24d"
+         }
+         ]
+}
+
